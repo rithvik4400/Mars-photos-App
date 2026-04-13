@@ -23,6 +23,7 @@ Navigation Compose
 <img width="370" height="831" alt="image" src="https://github.com/user-attachments/assets/7eb2ffd1-64db-4440-895e-f003dce526e1" />
 <img width="385" height="823" alt="image" src="https://github.com/user-attachments/assets/094f179f-19c5-45d4-b3f9-0958ee2b615d" />
 <img width="359" height="830" alt="image" src="https://github.com/user-attachments/assets/eeafca2b-53f9-41f2-99d6-34217541699d" />
+
 ----
 📂 Project Structure
 com.example.marsphotos
